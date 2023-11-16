@@ -1,0 +1,9 @@
+main.cpp - just runs game.cpp's run()
+game.cpp/.h - the main game loop (init, events, update, render, destroy)
+menu.cpp/.h - handles the game's main menu
+board.cpp/.h - keeps track of and handles the board's state
+- piles: 8 face-up piles of (initially) 5 cards that form the tableu
+- cells: 3 cells that can hold one card, or can be covered by a set of dragons
+- flowercell: a cell that can only take the flower
+- foundations: cells that must be built from 1 to 9 (all cards must be one suit)
+card.cpp/.h - defines card structs and enums

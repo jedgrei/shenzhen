@@ -1,0 +1,80 @@
+5/22/2023 14:51
+i made a version of klondike solitaire already (not that it's good), so i should be able to make shenzhen solitaire without many issues
+hopefully i can help refine my use of sdl, at least on a basic level
+maybe i can do some game jams over the summer using it?
+plus i can add everything i make to the website
+
+i'll probably document this one *much* more thoroughly than the first one i made
+maybe i could expand it with other solitaire games later?
+who knows
+
+i'll probably start with the same boilerplate as last time (~ish)
+then i'll move on to setting up "zones"
+unlike last time, these won't have a specific position tied to them from the beginning
+i'll give them a bunch of modifiable constants than only really matter when drawing and getting input
+later on, those can be changed during runtime based on window size and etc
+
+next i'll set up all the logic and restrictions
+i can just test these out with some ugly placeholders
+
+then i'll get to graphics (ewwwww)
+the cards will probably need to look better than last time
+i need to get used to that aspect too
+i'll pick a more palatable color palette, create my own symbols (to an extent)
+i kind of want it to be minimalist
+we'll see how it ends up working out
+
+mmmmenus
+i don't like them
+but i'll figure out how to make some
+it'll probably start out ugly for the first draft
+
+after all of that
+i'll try and lock it down, put it on the website
+and then revise
+
+i want a snapshot after i finish because 
+a) it seems like i accomplished something
+b) it might(?) show growth
+c) i feel like i'll appreciate it down the road
+
+speaking of
+i need to work on my website
+like a lot
+and then the ftc team's
+and then the frc team's
+
+so i'll be doing that over the summer too
+i'll work on my palette
+
+and names!
+i need to settle on a few for english
+i've been using one for a while but it's kind of mid
+nikeja and waso awen can only go so far
+
+i'll be fine though
+nice to write some
+i'll probably add this to the lipu soon (i haven't written in like weeks)
+
+
+5/30/23 5:14 pm
+wow
+i've been working on this almost all day now (i took breaks obv)
+umm
+i made graphics for all the cards (i might add a flower symbol into the flower cell later) and got all the rendering stuff working
+i should be done friday (6/2/23) which is nice
+i still haven't written in the lipu
+next week i should be free and alone, so i'll probably write then
+i think the cards look *significantly* better than they did for the other solitaire game
+if this ends up polished enough i'll put it on my website
+and then actually work on my website (and then the teams')
+
+i've been learning unlws!
+it's ... weird
+stack constructions still confuse me a bit
+i wrote a text in it though, and sai & alex went through it (i got <parent> backwards)
+
+the first thing i need to write in the lipu is a ginormous summary
+like of the year, event, media, all of it
+and i also need to document all the series i've seen (and am seeing)
+mmmmmm
